@@ -4,3 +4,12 @@ Core Concepts:
 1. Using #include to access standard input/output functionalities
 2. Utilizing std::cout to send output to the console
 3. Structure of the main() function along with a return value
+
+Program 2 : Simple Calculator Application -
+This C++ program operates as a basic calculator, allowing the user to carry out standard mathematical operations—such as addition, subtraction, multiplication, and division—on two numbers entered by the user. It illustrates how to declare variables, apply arithmetic operators, and display the output in a user-friendly format.
+
+Essential Concepts:
+1. Declaring variables using float and int data types
+2. Accepting user input through the console
+3. Executing fundamental mathematical computations
+4. Presenting results neatly with the help of std::cout
